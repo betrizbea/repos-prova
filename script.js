@@ -1,4 +1,4 @@
 alert('alerta!')
 function mudarTexto() {
-    document.getElementById("demo").innerHTML = "ALERTA!";
+    document.getElementById("demo").innerHTML = "Texto alterado!";
 }
